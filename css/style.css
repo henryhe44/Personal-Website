@@ -1,0 +1,80 @@
+/*5BC0EB FDE74C 9BC53D FF5451 404E4D*/
+#name{
+  padding: 25px 0px 40px 0px; 
+  color: white;
+  font-family: lato;
+  font-size: 54px;
+  font-weight: bold;
+  background-color: #5BC0EB;
+}
+
+ul {
+  color: #5a5a5a;
+  font-family: montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.glyphicon {
+    font-size: 16px;
+}
+
+#sentence {
+  position: relative;
+  top: -110px;
+  text-align: center;
+  font-family: karla;
+  font-size: 25px;
+}
+
+.pstyle1 {
+  font-family: karla;
+  font-size: 24px;
+}
+
+#sneakyfont {
+  font-size: 8px;
+  font-family: roboto;
+  color: #B0B2B8;
+}
+
+#sneakyfont2 {
+  position: relative;
+  font-size: 8px;
+  font-family: roboto;
+  color: #B0B2B8;
+  top: -20px;
+}
+
+ol {
+  font-family: roboto;
+  font-size: 16px;
+}
+
+/*
+.footer{
+  color: white;
+  font-family: lato;
+  font-size: 54px;
+  font-weight: bold;
+  background-color: #5BC0EB;
+}
+*/
+
+@media screen and (max-width: 770px) {
+  
+  #sentence {
+    top: -260px;
+  }
+  
+  .pstyle1 {
+  font-size: 18px;
+  }
+  
+  ol {
+  font-family: roboto;
+  font-size: 14px;
+}
+  
+}
