@@ -5,7 +5,7 @@
   font-family: lato;
   font-size: 54px;
   font-weight: bold;
-  background-color: #5BC0EB;
+  background-color: #5BC0EB; /*5BC0EB FDE74C 9BC53D FF5451 404E4D*/
 }
 
 ul {
@@ -49,18 +49,7 @@ ul {
 
 ol {
   font-family: roboto;
-  font-size: 16px;
 }
-
-/*
-.footer{
-  color: white;
-  font-family: lato;
-  font-size: 54px;
-  font-weight: bold;
-  background-color: #5BC0EB;
-}
-*/
 
 @media screen and (max-width: 770px) {
   
@@ -71,10 +60,5 @@ ol {
   .pstyle1 {
   font-size: 18px;
   }
-  
-  ol {
-  font-family: roboto;
-  font-size: 14px;
-}
   
 }
